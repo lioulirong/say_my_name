@@ -29,10 +29,14 @@ bundle exec jekyll serve
 ```
 Any change of the markdown files will reflect on local host web immediately.
 The \_config.yaml changes, however, require you to restart the server for some technical reason.
-4. push to Github
+4. Create the gh-pages branch
+```bash
+git checkout -b gh-pages
+```
+5. push to Github
 ```bash
 git push
 ```
-5. find the *url* in your project setting->github pages
+6. find the *url* in your project setting->github pages
 
 
