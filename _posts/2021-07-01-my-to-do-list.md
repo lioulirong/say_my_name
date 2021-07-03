@@ -13,8 +13,8 @@ author : "leolijung"
 這讓我想到之前就知道的一個以AI為基礎的自動補齊插件，不出所料，他有開發VIM的plugin
 2. [kite for vim](https://github.com/kiteco/vim-plugin)
 
-4. [Jekyll doc](http://jekyllcn.com/docs/posts/)
+3. [Jekyll doc](http://jekyllcn.com/docs/posts/)
 中文的jekyll文件遠在天邊近在眼前，先前看了不少Mike Dane的[教學](https://www.youtube.com/watch?v=fqFjuX4VZmU&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=20),影片教學是很棒，但是畢竟線性的閱覽方式不太便於查找
 
-5. [iTools教學](https://mrmad.com.tw/itools)
+4. [iTools教學](https://mrmad.com.tw/itools)
 聽同事介紹屌打iTunes的超神工具，不過似乎是已知用火
