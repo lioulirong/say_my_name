@@ -9,7 +9,7 @@ I recommend you to use Jekyll on Linux instead of on Windows.
 Jekyll is a static website generator. You can find enough introduction to it on the Internet.
 I'll skip that part.
 
-The same applied to the installation.
+The same applied to the installation. Check [this](https://ithelp.ithome.com.tw/articles/10198964) out to install.
 As for the tutorial for Jekyll it self, I recommend [Mike Dane's tutorial](https://www.youtube.com/watch?v=T1itpPvFWHI&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=1) on YouTube.
 I will cover the content of the video in my future article.
 
@@ -19,7 +19,7 @@ To Set up Github Page, you can refer to [GitHub docs](https://docs.github.com/en
 ```bash
 jekyll new <blogname>
 ```
-2. specift the `baseurl` value as "\\<your-project-name>"
+2. specift the `baseurl` value in `_config.yml` as "\\\<your-project-name\>"
 ```yaml
 baseurl: "/say_my_name" # the subpath of your site, e.g. /blog
 ```
