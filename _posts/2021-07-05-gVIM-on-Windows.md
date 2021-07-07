@@ -1,5 +1,5 @@
 ---
-title: "如何在windows gVIM使用plugin"
+title: "在Windows使用gVIM plugin"
 date : 2021-07-05 21:15:00 +0800
 layout : "post"
 author : "leolijung"
