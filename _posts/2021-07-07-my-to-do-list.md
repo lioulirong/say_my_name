@@ -69,6 +69,8 @@ author : "leolijung"
 
    我玩了Vim一陣子，發現如果專案稍微長大一點點，Vim就顯得實在是不好用：沒辦法立刻跳到函式定義，跨文件尋找關鍵字沒有Sublime好用，瀏覽文件樹稍嫌麻煩。非常好奇，Vim的重度使用者，到底都拿Vim寫些什麼。
 
+   我個人覺得Vim最好的使用時機就是，你很明確知道你要寫什麼，要寫在哪裡，寫在哪些檔案，需要調用哪些資原，所以可能小專案或是你很熟悉的專案比較適合使用Vim作為主要的編輯工具。
+
 4. [20+ Open Source Project for Beginners](https://dev.to/surajondev/beginners-guide-to-starting-your-open-source-journey-1bgb)
 
    這裡的beginner不是程式初學者，是開源專案初學者，列出的專案都是屌炸天專案
