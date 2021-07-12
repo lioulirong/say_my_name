@@ -1,5 +1,5 @@
 ---
-title: "7月更新-2"
+title: "7月更新-2：gdb, auto-vectorize, vim插件, open source"
 date : 2021-07-07 10:16:00 +0800
 layout : "post"
 author : "leolijung"
