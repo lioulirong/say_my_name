@@ -128,3 +128,9 @@ main:                                   # @main
 
 ```
 
+看到這裡，大概也把Ben Easter解釋的差不多說完了，關於`fib.s`裏面還有很多有去的細節，例如暫存器的部份，還有很多很棒的資源可以參考。
+
+MIT的這堂開放課程解釋了x86-64的一些歷史(legacy)和設計，歷史也不完全是歷史，現在很多都還在使用，但是要分清楚哪些是設計哪些是歷史，否則你會很疑惑。這堂課也有提供簡報檔，可參考[這裡](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec4.pdf)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L1ung0wil9Y?start=792" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
