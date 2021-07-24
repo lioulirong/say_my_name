@@ -3,6 +3,7 @@ title: "gcc 的 auto vectorization ：加速你的loop迴圈 "
 date : 2021-07-12 10:16:00 +0800
 layout : "post"
 author : "leolijung"
+permalink: /gccautovectorizationaccelerateyourloop
 ---
 
 [TOC]
