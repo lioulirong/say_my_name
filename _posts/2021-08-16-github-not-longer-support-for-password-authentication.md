@@ -60,3 +60,7 @@ git config --global credential.helper manager
 [Password authentication is temporarily disabled as part of a brownout. Please use a personal access token instead](https://stackoverflow.com/questions/68191392/password-authentication-is-temporarily-disabled-as-part-of-a-brownout-please-us/68192528#68192528)
 
 [Where to store the personal access token from GitHub?](https://stackoverflow.com/questions/46645843/where-to-store-the-personal-access-token-from-github)
+
+[git-credential-store - Helper to store credentials on disk ](https://git-scm.com/docs/git-credential-store)
+
+[gitcredentials - Providing usernames and passwords to Git ](https://git-scm.com/docs/gitcredentials)
