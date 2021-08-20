@@ -6,6 +6,13 @@ categories: github
 ---
 ### 使用HTTPS protocol operation
 
+你要push東西上去Github結果看到
+
+```
+remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+```
+![](https://c.tenor.com/t440UaMq4KkAAAAC/doge-doge-on-doge.gif)
+
 過去如果你有一個本地端的Git repository，除了透過[SSH key](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)認證你還有一個選項可以做Github operation(例如 :push, pull, clone 等等)—用password authentication，簡單來說就輸入你的Github 帳密來操作。
 
 ```sh
