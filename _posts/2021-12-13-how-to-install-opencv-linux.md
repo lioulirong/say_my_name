@@ -6,8 +6,7 @@ author : "leolijung"
 categories: 
 ---
 
-整理官方的[installation文件](https://docs.opencv.org/4.x/d7/d9f/tutorial_linux_install.html) 操作起來跟實際在我電腦的流程有點出入
-我拿只安裝 Core Moudule的部份當範例：
+官方的[installation文件](https://docs.opencv.org/4.x/d7/d9f/tutorial_linux_install.html) 操作起來跟實際在我電腦的流程有點出入，整理了一份我的步驟，以只安裝 Core Moudule的部份當範例：
 
 首先我假設你當前的位置是 `~` ，而且先備的package都有了（裡如g++, make, wget...）
 ```shell
