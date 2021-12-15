@@ -80,9 +80,9 @@ laplace 是二階梯度，遮罩長得像下面那樣，有兩種選擇。
 
 上面兩個都是空間域的作法，Wavelet Transform則是頻率域的作法。我想如果小波轉換可以，那或許也可以使用傅立葉轉換。
 
-現在回到focus value metric的部分，上述的三個方法都可以把影像的清晰程度量化成數值，一個好的focus value metric應該可以將影像stack畫成如下圖形成一個凸函數。(影像的stack是指一組在不同的focus postion拍攝形成的影像集合)。
+現在回到focus value metric的部分，上述的三個方法都可以把影像的清晰程度量化成數值，一個好的focus value metric應該可以將影像stack畫成如下圖形成一個focus curve。(影像的stack是指一組在不同的focus postion拍攝形成的影像集合)。
 
-Focus value數值最高的地方對應的Focus position也就是AF演算法要找的答案。
+**Focus value數值最高的地方對應的Focus position也就是AF演算法要找的答案**。
 
 ![](https://i.imgur.com/c9NFLWW.png)
 
@@ -107,6 +107,7 @@ Focus value數值最高的地方對應的Focus position也就是AF演算法要�
 ![](https://i.imgur.com/Xr5w7eC.png)
 
 ![](https://i.imgur.com/hHk3QLy.png)
+不同顏色的曲線表示不同的window的focus curve
 
 #### Search algorithm
 
@@ -114,7 +115,7 @@ Focus value數值最高的地方對應的Focus position也就是AF演算法要�
 
 但這並不可能這麼完美，首先控制基本上都會有overshoot，同時control loop也會有delay，再來是我們根本不知道我們是否已經找到focus value最大值，自然不知道要再什麼地方停下來。
 
-![火、式](https://i.imgur.com/GrGN5mT.png)
+![](https://i.imgur.com/GrGN5mT.png)
 
 ##### Full search algortihm
 
