@@ -24,9 +24,7 @@ categories:
     * 花10萬到歐洲玩，購買300塊的礦泉水
     * 高級餐廳高於市價的加購餐前酒
     * 意義不同的40$:    
-        :::spoiler    
         ![](https://i.imgur.com/XxnYM2M.png)
-        :::
 
 > 應該用$思考，而不是%
 
@@ -133,6 +131,7 @@ categories:
 ![](https://i.imgur.com/2cSMsUu.png)
 
 > 要做到讓大家看到
+
 * 難怪上班要裝忙
 * 夫妻對家庭的貢獻加起來超過100%
 * 藥廠的藥過度收費
