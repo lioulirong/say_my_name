@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "C++ Primer CH 15 C++OOP 筆記"
-date:   2022-01-27 10:20:31 +0800
+title:  "金錢心理學 筆記"
+date:   2022-03-27 10:20:31 +0800
 author : "leolijung"
 categories: 
 ---
