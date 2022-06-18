@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "金錢心理學 筆記"
-date:   2022-03-27 10:20:31 +0800
+date:   2022-03-26 10:20:31 +0800
 author : "leolijung"
 categories: 
 ---
