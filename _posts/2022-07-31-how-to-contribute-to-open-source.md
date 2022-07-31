@@ -1,4 +1,10 @@
-
+---
+layout: post
+title:  "How to contribute to open source"
+date:   2022-06-31 11:22:31 +0800
+author : "leolijung"
+categories: "useful"
+---
 
 ### Find a project to contribute to 
 
